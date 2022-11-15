@@ -1,0 +1,9 @@
+{
+	global:
+		krakatoasr::*;
+		extern "C++" {
+			*krakatoasr::*;
+		};
+	local:
+		*;
+};

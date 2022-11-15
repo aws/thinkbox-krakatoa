@@ -1,0 +1,12 @@
+BasedOnStyle: LLVM
+Standard: c++17
+UseTab: Never
+ColumnLimit: 120
+IndentWidth: 4
+BreakBeforeBraces: Attach
+NamespaceIndentation: None
+AlwaysBreakTemplateDeclarations: true
+SpacesInParentheses: true
+SpaceBeforeParens: Never
+BreakConstructorInitializersBeforeComma: true
+PointerAlignment: Left

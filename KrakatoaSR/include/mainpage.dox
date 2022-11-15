@@ -1,0 +1,31 @@
+/**
+\mainpage Krakatoa SR C++ API
+
+@section overview_section Overview
+
+@par
+Krakatoa is Thinkbox Software's production-proven volumetric particle renderer. The Krakatoa SR C++ API allows programmers to write their own interface to Krakatoa.
+
+@par
+The API provides all of Krakatoa's engine functionality. It allows the users to input particles and meshes directly, and provides callbacks for progress and image display.
+
+@section getting_started_section Getting Started
+
+@par
+The easist way to begin your project is to browse the C++ files included in the "examples" directory. These samples demonstrate how to perform simple renders and how to use the various features of the API.
+
+@par
+The krakatoa_renderer class is the principal class in the API. It collects all the render data and performs the final render. Every project that uses the API will contain a krakatoa_renderer object.<br/>
+See krakatoasr::krakatoa_renderer
+
+@section support_section Support
+
+@par
+All technical support is conducted though our forums:<br/>
+http://forums.thinkboxsoftware.com/
+
+@par
+For licensing or other inquiries, please contact:<br/>
+support@thinkboxsoftware.com
+
+*/
